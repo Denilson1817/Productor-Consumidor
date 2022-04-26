@@ -56,7 +56,7 @@ public class Buffer {
 
 
     public void mandarPizzaACola(){
-        //Holi Javi este nuevo cambio
+        //Holi Javi este nuevo cambio ahora si el bueno
     }
     
 }
